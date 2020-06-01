@@ -9,3 +9,4 @@ Git チュートリアル
 
 aiuo
 - feature-C
+- feature-D
